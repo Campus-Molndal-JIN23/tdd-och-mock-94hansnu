@@ -12,5 +12,5 @@ Detta projektet handlar om  att testa WeatherServise klassen genom att använda 
 -  ``
 
 ## Beroenden
-https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.7.0
-https://mvnrepository.com/artifact/org.mockito/mockito-core
++ https://mvnrepository.com/artifact/org.mockito/mockito-core
++ https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.7.0
