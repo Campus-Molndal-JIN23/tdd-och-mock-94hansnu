@@ -5,11 +5,8 @@ tdd-och-mock-94hansnu
 ## Description
 Detta projektet handlar om  att testa WeatherServise klassen genom att använda mig utav Mockito och JDD tesning.
 
-
-
 ## Installation
 -  Ladda ner zip.filen från Githib, öppna upp filen, tryck på scr- mappen, välj vilken klass du vill öppna och titta på, (Intellij behöver finnas på datorn).  Testerna körs i testklassen.
--  ``
 
 ## Beroenden
 + https://mvnrepository.com/artifact/org.mockito/mockito-core
