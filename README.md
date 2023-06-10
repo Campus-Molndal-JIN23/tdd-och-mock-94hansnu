@@ -11,3 +11,17 @@ Detta projektet handlar om  att testa WeatherServise klassen genom att använda 
 ## Beroenden
 + https://mvnrepository.com/artifact/org.mockito/mockito-core
 + https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.7.0
+
+## Test Rapport
+
+
+| TestID och Beskrivning                              | Förväntat Resultat                              | Verkligt Resultat                               | Status    | Kommentarer            |
+|-----------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------|------------------------|
+| 1. Hämta temperatur för en plats                    |  Att få temperaturen för platsen                | Fick den förväntade temperaturen för platsen    | Lyckades  | - Inga problem         |
+| 2. Hämta vindhastighet för en plats                 |  Att få vindhastigheten för platsen             | Fick den förväntade vindhastigheten för platsen | Lyckades  | - Inga problem         |
+| 3. Hämta stad för en befintlig plats                |  Att få stad för platsen                        | Fick det förväntade stad för platsen            | Lyckades  | - Inga problem         |
+| 4. Hämta stad för en icke-befintlig plats           |  Att få ett null-värde                          | Fick ett null-värde                             | Lyckades  | - Inga problem         |
+| 5. Hämta land för en befintlig plats                |  Att få landet för platsen                      | Fick det förväntade landet för platsen          | Lyckades  | - Inga problem         |
+| 6. Hämta land för en icke-befintlig plats           |  Att få ett null-värde                          | Fick ett null-värde                             | Lyckades  | - Inga problem         |
+| 7. Hämta molntäckning för en plats                  |  Att få molntäckningen för platsen              | Fick den förväntade molntäckningen för platsen  | Lyckades  | - Inga problem         |
+
